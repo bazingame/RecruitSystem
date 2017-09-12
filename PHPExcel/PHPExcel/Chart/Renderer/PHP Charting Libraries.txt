@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ChartDirector
 	http://www.advsofteng.com/cdphp.html
 
@@ -18,25 +17,4 @@ TeeChart
 	http://www.steema.com/products/teechart/overview.html
 
 PHPGraphLib
-=======
-ChartDirector
-	http://www.advsofteng.com/cdphp.html
-
-GraPHPite
-	http://graphpite.sourceforge.net/
-
-JpGraph
-	http://www.aditus.nu/jpgraph/
-
-LibChart
-	http://naku.dohcrew.com/libchart/pages/introduction/
-
-pChart
-	http://pchart.sourceforge.net/
-
-TeeChart
-	http://www.steema.com/products/teechart/overview.html
-
-PHPGraphLib
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
     http://www.ebrueggeman.com/phpgraphlib

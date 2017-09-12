@@ -3,10 +3,7 @@
 }
 
 html {
-<<<<<<< HEAD
   height: 100%;
-=======
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
   overflow-y: scroll;
 }
 
@@ -16,10 +13,7 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
 a {
   text-decoration: none;
   color: #1ab188;
@@ -42,18 +36,13 @@ a:hover {
 .tab-group {
   list-style: none;
   padding: 0;
-<<<<<<< HEAD
   margin: 0 0 15px 0;
-=======
-  margin: 0 0 40px 0;
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
 }
 .tab-group:after {
   content: "";
   display: table;
   clear: both;
 }
-<<<<<<< HEAD
 
 .tab-group2{
   list-style: none;
@@ -79,8 +68,6 @@ a:hover {
   -webkit-transition: .5s ease;
   transition: .5s ease;
 }
-=======
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
 .tab-group li  {
   display: block;
   text-decoration: none;
@@ -96,30 +83,16 @@ a:hover {
   transition: .5s ease;
 }
 
-<<<<<<< HEAD
 .tab-group2 .active a {
   /*background: #1ab188;*/
   color: #1ab188;
 }
 
-=======
-.tab-group .active a {
-  background: #1ab188;
-  color: #ffffff;
-}
-
-
-
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
 h2 {
   text-align: center;
   color: #ffffff;
   font-weight: 300;
-<<<<<<< HEAD
   margin: 0 0 20px;
-=======
-  margin: 0 0 40px;
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
   opacity: 0.8;
 }
 
@@ -240,12 +213,9 @@ textarea {
   position: absolute;
   top:2.6%;
   right: 1%;
-<<<<<<< HEAD
 }
 #sky31txz{
   margin-top: 9px;
   float: right;
   /*bottom: 20px;*/
-=======
->>>>>>> 36f4b30d1a443197074ebbf8fbe213ec596b9cd3
 }
