@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5762a03e-7858-4d5a-aeca-30ee2266ba6e" name="sky31" url="http://202.197.225.16">
+        <fileTransfer host="202.197.225.16" port="5231" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="5231" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
