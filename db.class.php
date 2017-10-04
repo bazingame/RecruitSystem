@@ -6,7 +6,7 @@
          try {
              $dbr = "mysql:host=localhost;dbname=zhaoxin2017";
              $username = "root";
-              $password = "NIUBSky3!.comr720";
+              $password = "***********";
 //            $password = "root";
              $this->pdo = new PDO($dbr, $username, $password, array(PDO::ATTR_PERSISTENT => true));
              $this->pdo->exec("set names utf8");
